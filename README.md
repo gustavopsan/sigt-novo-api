@@ -1,5 +1,5 @@
 
-# API Transparência - PIB Santana
+# API SIGT
 
 A presente documentação tem como objetivo facilitar o entendimento da **API Transparência**, bem como direcionar a forma como cada endpoint deve ser utilizado.
 
